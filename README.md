@@ -5,6 +5,7 @@ Software engineering student
 ----------------------------
 
 As a software engineering student deeply passionate about technology, I thrive on diving headfirst into challenges and crafting practical solutions that deliver real results. Let's collaborate and create something truly awesome together! 🚀
+
 ✉️  You can contact me at [meriem.balhaddad2001@gmail.com](mailto:meriem.balhaddad2001@gmail.com)
 
 ### Skills
