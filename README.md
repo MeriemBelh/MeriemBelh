@@ -5,6 +5,8 @@ I'm a software engineering student deeply passionate about technology, I thrive 
 
 🌍  I'm based in Casablanca, Morocco
 
+🎓 Currently, I'm on the path to earning a software engineering degree from the National Institute of Posts and Telecommunications in Rabat, Morocco.
+
 ✉️  You can contact me at [meriem.balhaddad2001@gmail.com](mailto:meriem.balhaddad2001@gmail.com)
 
 ### Skills 
