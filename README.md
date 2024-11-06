@@ -3,9 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm a software engineering student deeply passionate about technology, I thrive on diving headfirst into challenges and crafting practical solutions that deliver real results. Let's collaborate and create something truly awesome together! 🚀
 
-🌍  I'm based in Casablanca, Morocco
+🌍  I'm based in Grenoble, France
 
-🎓 Currently, I'm on the path to earning a software engineering degree from the National Institute of Posts and Telecommunications in Rabat, Morocco.
+🎓 Currently, I'm on the path to earning a computer engineering degree from ENSIMAG in Grenoble, France.
 
 ✉️  You can contact me at [meriem.balhaddad2001@gmail.com](mailto:meriem.balhaddad2001@gmail.com)
 
